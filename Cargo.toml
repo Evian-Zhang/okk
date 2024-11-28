@@ -1,0 +1,15 @@
+[package]
+name = "okk"
+version = "0.1.0"
+edition = "2021"
+authors = ["Evian-Zhang <evianzhang1999@163.com>"]
+license = "MIT OR Apache-2.0"
+description = "Yet another approach to replacing the `Ok(())`."
+homepage = "https://github.com/Evian-Zhang/okk"
+documentation = "https://docs.rs/okk"
+repository = "https://github.com/Evian-Zhang/okk"
+readme = "README.md"
+keywords = ["error-handling"]
+categories = ["rust-patterns", "no-std"]
+
+[dependencies]
